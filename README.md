@@ -1,5 +1,5 @@
 # BookStore
-Here is a small desktop application which stores and query the book book database.
+Here is a small desktop application which stores and query the book book database.<br/>
 ![Alt Text](https://img.shields.io/badge/Python-3.7.4-red)
 ![Alt Text](https://img.shields.io/badge/MySQL-8.0-orange)<br/>
 ## Installation
